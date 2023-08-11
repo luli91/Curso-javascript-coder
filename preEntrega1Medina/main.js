@@ -1,5 +1,7 @@
 // Curso de javascript Coder Comisión 47005 
-// Primer entrega: Crear un algoritmo con un condicional 
+
+//Crear un algoritmo con un condicional
+
 // En este caso yo quiero que el cliente que quiera enviar un formulario llene todos los datos, si alguno de ellos esta vacio que salte un alert "Por favor, complete todos los campos antes de enviar el formulario.", si no que salte otro alert "La consulta se envió correctamente."
 let nombre = prompt("Ingrese su nombre");
 let telefono = prompt("Ingrese su telefono");
